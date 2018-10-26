@@ -13,7 +13,7 @@
 |[Dataset D](https://pan.baidu.com/s/1JPgNLy0yBMBcg1GIx4AkvQ)|From China-Japan Hospital| 
 
 ## Methods Description:
-### Method 1:
-### Method 2:
+### Method 1: Image patch-based segmentation method
+### Method 2: End-to-end method
 ## Results:
 ## Reference:
